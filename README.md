@@ -38,7 +38,7 @@ The dev server runs at `http://localhost:5173` by default.
 
 ```
 src/
-├── data/events.js          # Mock event data (replace with real API)
+├── data/events.js          # Mock event data can be replaced with real API.
 ├── hooks/useEvents.js      # All data logic: fetch, filter, sort, selection
 ├── components/
 │   ├── FilterBar.jsx       # Search input + type/sort dropdowns
